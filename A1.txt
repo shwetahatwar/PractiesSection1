@@ -1,0 +1,4 @@
+1. Activities
+An activity is a class that is considered as an entry point for users that represents a single screen. A messenger application might have an activity that shows a new notification, another activity which reads messages and another which composes a new message.
+
+Each activity is independent of one another. For example – camera application can be started in an email application to compose an email that shares an image. The picture below depicts how each new activity adds an item to back stack and how the current activity is destroyed and previous activity is resumed. We will study the life cycle of activity in detail in our Android Activity article.
