@@ -1,0 +1,4 @@
+2. Services
+A service is a component that runs in the background, it acts as an invisible worker of our application. It keeps updating data sources and activities. It also broadcasts intents and performs tasks when applications are not active. An example of service is we can surf the internet or use any other application while listening to music.
+
+To execute services, extend the Services class in your sub-class:
