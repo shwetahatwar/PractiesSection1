@@ -1,0 +1,7 @@
+2. Widgets
+Widgets are variations of Broadcast Receivers and essential aspects of home screen customization. They display data and allow users to perform actions on them. There are various types of widgets:
+
+Information widget: These widgets display crucial information and track how the information changes over time. Example – Clock widgets and widgets that display weather and time information.
+Collection widget: As the name depicts, collection widgets are a collection of information of the same type. Its use is for browsing information and opening any one of the elements to view details. Example – music widgets, as we can skip pause and play music outside the music application.
+Control widget: These widgets display functionalities and by using them, the user can trigger from home screen without opening the application. Example – pause and play the video outside the application.
+Hybrid widget: These widgets combine features of all the other three widgets. Example – music player widget is a control widget but it also informs the user about which track is playing currently, which means it is a combination of control and information thus it is termed as hybrid widget.
