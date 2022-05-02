@@ -1,0 +1,6 @@
+res/drawable folder
+It contains the different types of images used for the development of the application. We need to add all the images in a drawable folder for the application development.
+ 
+
+res/layout folder
+The layout folder contains all XML layout files which we used to define the user interface of our application. It contains the activity_main.xml file.
