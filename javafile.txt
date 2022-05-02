@@ -1,0 +1,2 @@
+Java folder
+Java folder contains all the java and Kotlin source code (.java) files that we create during the app development, including other Test files. If we create any new project using Kotlin, by default the class file MainActivity.kt file will create automatically under the package name “com.geeksforgeeks.myfirstkotlinapp” like as shown below. 
